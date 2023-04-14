@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1647515597 source:d:\codeblocks\homework1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1647521838 source:c:\projeler\homework1\main.c
+	<stdio.h>
+	<stdlib.h>
+
